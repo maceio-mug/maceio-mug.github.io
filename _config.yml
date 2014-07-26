@@ -1,4 +1,6 @@
 name: Maceió MongoDB User Group
 
 markdown: kramdown
+
+kramdown:
   input: GFM
