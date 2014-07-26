@@ -37,12 +37,12 @@ Onde: UFAL - laboratório 3 do bloco de computação
 
 [mug2.pdf](mug2.pdf)
 
+## Resultado
+
+http://vinipsmaker.wordpress.com/2013/12/01/maceio-mongodb-user-group-segundo-encontro/
+
 ## Fotos
 
 ![](fotos/1.jpeg)
 
 ![](fotos/2.jpeg)
-
-## Resultado
-
-http://vinipsmaker.wordpress.com/2013/12/01/maceio-mongodb-user-group-segundo-encontro/
