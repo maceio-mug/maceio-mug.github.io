@@ -1,0 +1,29 @@
+---
+---
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="/css/main.css">
+    <link rel="stylesheet" href="http://yandex.st/highlightjs/8.0/styles/github.min.css">
+    <script src="http://yandex.st/highlightjs/8.0/highlight.min.js"></script>
+    <script>hljs.initHighlightingOnLoad();</script>
+  </head>
+  <body>
+    <div class="site">
+      <div class="header">
+        <h1 class="title"><a href="/">{{ site.name }}</a></h1>
+        <a class="extra" href="/">home</a>
+        <a class="extra" href="/eventos/">eventos</a>
+        <a class="extra"
+           href="https://groups.google.com/forum/#!forum/maceio-mug">
+          lista de discussão
+        </a>
+      </div>
+
+      {{ content }}
+
+    </div>
+  </body>
+</html>
