@@ -7,9 +7,9 @@ Quando: 8 de dezembro de 2013
 
 Página do evento: http://www.ic.ufal.br/evento/siesa2013/
 
-## Slides
+## Resultado
 
-http://maceio-mug.github.io/curso-introdutorio/
+http://vinipsmaker.wordpress.com/2013/12/09/maceio-mug-no-siesa-2013/
 
 ## Fotos
 
